@@ -2,9 +2,14 @@ Steve's Factory Manager
 =======
 Steve's Factory Manager is a Minecraft mod which allows you to set up systems that moves and manages items between inventories and machines.
 
+Notes
+---
+This is a recreation of steves factory manager created by Vswe. All code and assets created from him are his. 
+He has given permsion to use it via [twitter][5] to anyone that has the source code.
+
+
 Setup Workspace
 ---
-
 
 ```sh
 git clone [git-repo-url]
@@ -32,3 +37,4 @@ gradle setupDecompWorkspace eclipse
 [2]:http://www.minecraftforum.net/topic/1846244-172-
 [3]:http://www.gradle.org/
 [4]:http://www.minecraftforge.net/forum/index.php/topic,14048.0.html
+[5]:https://twitter.com/Steves_Carts/status/795197105849729024
